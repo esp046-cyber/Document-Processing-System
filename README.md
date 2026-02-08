@@ -1,4 +1,4 @@
-# document
+# Document Processing System
 fully functional 2026 Document Processing System mobile app for you. Let me build this step by step.
 complete, functional 2026 Document Processing System mobile HTML app with modern UI, document upload, OCR simulation, AI processing, and export features
 Creating a complete, functional 2026 Document Processing System mobile HTML app with modern UI, document upload, OCR simulation, AI processing, and export features
